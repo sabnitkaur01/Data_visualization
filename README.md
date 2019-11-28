@@ -1,7 +1,7 @@
 # Data_visualization
-![Data visualization](images/data_viz.png)
+![Data visualization](images/data_viz.jpg)
 
-## DATA VISUALIZATION FOR PUBLIC ENGAGEMENT
+## DATA VISUALIZATION 
 
 ### Data visualization is a form of visual art that grabs our interest and keeps our eyes on the message. When we see a chart, we quickly see trends and outliers. If we can see something, we internalize it quickly. If you’ve ever stared at a massive spreadsheet of data and couldn’t see a trend, you know how much more effective a visualization can be.
 
@@ -28,7 +28,7 @@ This is my Doc with steps and my story [click here](https://drive.google.com/ope
 
 ## IDEA 
  
-### Make a simple and attractive web page as possible as you can beacuse there is nothing more attractive then simple and meaningful page :) 
+### Make a simple and attractive web page as possible as you can beacuse there is nothing  attractive more then simple and meaningful page :) 
 
 ## Authors
 
