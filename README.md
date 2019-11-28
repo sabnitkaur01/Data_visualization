@@ -17,7 +17,8 @@ To get more information [click here](https://www.tableau.com/)
 
 ## FOOTSTEPS
 
-### 1. Analyze your data carefully.
+### 
+1. Analyze your data carefully.
 2. Analyze it again in tableau and make six different graphs that related to your story.
 3. Count total medals and numbers of Gold, Silver, bronze.
 4. Make layout for general idea.
