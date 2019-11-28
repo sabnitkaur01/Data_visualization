@@ -9,8 +9,10 @@
 
 ### Make a six different charts (pie chart, bar graphs, maps, line, etc) to present the data visualization of olympic. Choose any story to describe your specific data with charts.
 
+To get more information [click here](https://www.tableau.com/)
+
 ## MY STORY
 
 ### I am going to present ```Canada```, who did ```best``` in ```Ice hockey``` as compare to others through out whole data.
 
-To get more information [click here](https://www.tableau.com/)
+This is my Doc [click here](https://drive.google.com/open?id=1ZVp38Knxs4Rwr_-1WeYm3PduJeUx_OLe6iYS_Wvs7lI)
