@@ -13,7 +13,7 @@ To get more information [click here](https://www.tableau.com/)
 
 ## MY STORY
 
-### I am going to present ```Canada```, who did ```best``` in ```Ice hockey``` as compare to others through out whole data.
+### I am going to present ```Canada```, who did ```best``` in ```Ice hockey``` as compare to others throughout whole data.
 
 ## FOOTSTEPS
 
